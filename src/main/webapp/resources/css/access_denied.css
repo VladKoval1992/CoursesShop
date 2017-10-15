@@ -1,0 +1,32 @@
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input{margin:0;padding:0} h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,table,font,input{font-size:1em;font-style:normal;font-weight:normal} a{color:#1479C6;text-decoration:underline}  
+a:hover{text-decoration:none}  
+h1,h2,h3,h4,h5,h6{font-family:Tahoma,Verdana,Helvetica,sans-serif;margin:0 0 .2em 0;line-height:1.1em;font-size:1em;font-weight:bold} body{background-color:#FFF;color:#616F7D;font-family:Tahoma,Verdana,Helvetica,sans-serif;font-size:11px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:18px}  
+img{border:0}  
+.clr{clear:both}
+ ul{list-style-image:none;list-style-position:outside;list-style-type:circle;margin-bottom:18px;margin-left:2em;margin-bottom:5px;margin-top:4px} img.left{float:left;margin:2px 20px 16px 0} img.right{float:right;margin:2px 0 16px 20px} hr{border:none;border-top:1px solid #CCB6A0} .ftext{padding:2px;border:1px solid #B5B5B5}  
+.page_bg{background-color:#F6F6F6}  
+.wrapper{margin:auto;width:555px;text-align:left;margin-top:10%}  
+.dleft,.dright{background-position:left top;background-repeat:repeat-y;background-color:transparent} .dright{background-position:right top} .pagebody{width:555px;background:#FFF url("resources/jpg/bodypage.png") repeat-y left top}  
+.pagebody .dtop{background:transparent url("/resources/jpg/header.png") no-repeat left top}
+.pagebody .dbottom{background: url("/resources/jpg/pagebody_foot.png") no-repeat left bottom}
+.pagebody .dcont{padding:24px 49px 20px 49px}  
+.NetLevel{margin-left:17px}  
+.header{height:74px}  
+.message{width:457px;height:81px;background:#616F7D url("/resources/jpg/msg_table.png") no-repeat left top;position:relative}
+.message .inner{padding-left:12px;padding-right:210px;padding-top:16px}  
+.errorbg{background:#616F7D url("/resources/jpg/msg_table2.png") no-repeat left top} .blockicon{display:block;width:203px;height:142px;position:absolute;top:-61px;right:0;background:transparent url("resources/jpg/blockicon_bg.png") no-repeat left top;z-index:1}
+*html .blockicon{right:-1px}  
+.error{background:transparent url("/resources/jpg/erroricon_bg.png") no-repeat left top!important}
+.blockicon span{display:block;padding-top:85px;text-align:center}  
+.msg_text{height:50px;color:#DFE2E5;line-height:16px}  
+.msg_text h1{font-size:17px;font-weight:normal;line-height:16px;color:#FFF}  
+.msg_text h1 a{color:#FFF}  
+.errorbg .msg_text h1{float:left;font-size:27px;line-height:42px;width:56px}  
+.errorbg .msg_text h3,.errorbg .msg_text h3 a{color:#FFF}  
+.content{padding:0 12px;padding-top:12px}  
+.content p{margin:0;padding-bottom:3px}  
+.content h2{font-size:17px;font-weight:normal;line-height:16px;padding-bottom:7px}  
+.morelink a{color:#616F7D}  
+.footer{height:58px;background:#FFF url("/resources/jpg/footer.png") no-repeat left top}
+.footer .inner{padding:14px 60px 0 60px;color:#8395A1}  
+.footer .inner a{color:#8395A1}

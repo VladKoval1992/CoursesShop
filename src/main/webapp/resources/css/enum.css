@@ -1,0 +1,13 @@
+.enum {
+            border-collapse: collapse;
+            counter-reset: numeration;
+        }
+        .enum num {
+            counter-increment: numeration;
+        }
+        .enum num:before {
+            content: counter(numeration);
+            display: table-cell;
+            vertical-align: middle;
+            color: #000000;
+        }
